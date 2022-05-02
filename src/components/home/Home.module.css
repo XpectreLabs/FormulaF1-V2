@@ -1,0 +1,22 @@
+.Box{
+  background-color: #eb0202;
+  color: #fff;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.Item2{
+  width: 100%;
+  height: 422px;
+  background: url('../../assests/wallpaper/Pilotos-01.png') no-repeat center center;
+  background-size: cover; 
+}
+
+.Item3{
+  padding-bottom: 30px;
+}
+
+.Item3 p{
+  text-align: center;
+  font-size: 30px;
+}

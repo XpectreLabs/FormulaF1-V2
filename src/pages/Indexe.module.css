@@ -1,0 +1,23 @@
+.Container {
+  background: #eb0202;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: "Inter";
+}
+
+.IconosMenu {
+  margin-top: 40px;
+  width: 80px;
+}
+
+.DivF1 {
+  background-color: #eb0202;
+  padding: 20px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 115%;
+  /* or 23px */
+  letter-spacing: -0.019em;
+  color: #ffffff;
+}
